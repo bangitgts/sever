@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone",
+      "price": 400,
+      "status": true
+  },
+  {
+      "id": 2,
+      "name": "Iphone 1",
+      "price": 4001,
+      "status": true
+  },
+  {
+      "id": 3,
+      "name": "Iphone 3",
+      "price": 4003,
+      "status": true
+  }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
